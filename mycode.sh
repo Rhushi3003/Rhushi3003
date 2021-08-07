@@ -1,1 +1,1 @@
-echo "this is my first script for repository"
+echo "this is my second script for repository"
